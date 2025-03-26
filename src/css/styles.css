@@ -1,0 +1,61 @@
+html,
+body {
+    position: relative;
+    height: 100%;
+}
+
+body {
+    background: black;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+.swiper {
+    width: 50%;
+    height: 50%;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #6B9872;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.swiper-button-next, .swiper-button-prev, .swiper-pagination {
+    color: black;
+}
+
+.Titulo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Titulo img {
+    display: block;
+    width: 8%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.Titulo h1 {
+    color: black;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.Titulo p {
+    color: black;
+    margin-top: 2rem;
+}
+
+.Texto p{
+    color: black;
+}
