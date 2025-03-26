@@ -12,7 +12,7 @@ JavaScript
 
 SwiperJS (Documentação Oficial)
 
-📌 Funcionalidades
+📌 <h2>Funcionalidades</h2>
 
 Exibe feedbacks de clientes de forma dinâmica.
 
@@ -20,23 +20,23 @@ Navegação fluída com setas ou arraste (touch slide).
 
 Design responsivo para diferentes tamanhos de tela.
 
-📷 Demonstração
+📷 <h2>Demonstração</h2>
 
 (Adicione aqui uma captura de tela ou GIF do projeto rodando, se possível.)
 
-🛠️ Como Executar o Projeto
+🛠️ <h2>Como Executar o Projeto</h2>
 
-Clone este repositório:
+</h3>Clone este repositório:</h3>
 
 git clone https://github.com/EduardoMenen/Card-de-FeedBacks.git
 
-Entre na pasta do projeto:
+<h3>Entre na pasta do projeto:</h3>
 
 cd Card-de-FeedBacks
 
 Abra o arquivo index.html no navegador ou utilize uma extensão como "Live Server" no VSCode para visualizar o projeto.
 
-📦 Instalação do SwiperJS
+📦 <h2>Instalação do SwiperJS</h2>
 
 Se precisar instalar o SwiperJS via CDN, adicione no HTML:
 
@@ -47,8 +47,8 @@ Se preferir instalar via npm:
 
 npm install swiper
 
-📄 Licença
+📄 <h2>Licença</h2>
 
 Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modificá-lo conforme necessário!
 
-Feito com ❤️ por Eduardo Menen 🚀
+<h2>Feito com ❤️ por Eduardo Menen 🚀</h2>
